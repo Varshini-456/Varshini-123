@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+I'm+Varshini+L;Python+Developer;Biomedical+Engineering+Graduate;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+I'm+Varshini+L;Python+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -12,33 +12,12 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Varshini:
 
-    def __init__(self):
-        self.name = "Varshini L"
-        self.location = "Chennai, India"
-        self.degree = "B.E Biomedical Engineering"
-        self.stack = [
-            "Python",
-            "Java",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "MySQL"
-        ]
-
-        self.currentlyLearning = [
-            "Python Full Stack Development",
-            "Advanced SQL",
-            "Git & GitHub"
-        ]
-
-        self.funFact = "Biomedical Engineer passionate about Software Development."
-
-    def motto(self):
-        return "Learn • Build • Improve • Repeat"
-```
+       Aspiring to work in a technology-driven organization where I can apply
+my programming, data analysis, and problem-solving skills to develop
+innovative and efficient solutions. Passionate about continuous learning
+and eager to contribute to impactful projects in software development,
+data analytics, and technology-enabled solutions
 
 ---
 
@@ -117,20 +96,7 @@ class Varshini:
 
 ---
 
-# 💼 Work Experience
 
-<details>
-
-<summary><b>Fresher | Aspiring Python Developer | 2025 | India</b></summary>
-
-> **Tech:** Python • Java • MySQL • HTML • CSS • JavaScript
-
-* Biomedical Engineering graduate transitioning into Software Development.
-* Completed multiple academic software projects.
-* Currently pursuing Python Full Stack Development.
-* Passionate about building scalable applications.
-
-</details>
 
 ---
 
@@ -151,9 +117,6 @@ class Varshini:
 | 🏆 | L&T Techgium             | Selected Participant                                     |
 | 📄 | Patent                   | BMI-Based Health Drink Vending System                    |
 | 🌍 | International Conference | Automatic IV Pole with IV Bag Refill Notification System |
-| 🎓 | CGPA                     | **7.87 / 10**                                            |
-| 📚 | HSC                      | **91.3%**                                                |
-| ⭐  | SSLC                     | **94.4%**                                                |
 
 ---
 
@@ -171,16 +134,7 @@ class Varshini:
 
 ---
 
-# 🌱 Currently Learning
 
-```text
-🧱 Python Full Stack Development
-      → Django
-      → REST APIs
-      → Git & GitHub
-      → SQL Optimization
-      → JavaScript
-```
 
 ---
 
