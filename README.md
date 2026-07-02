@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varshini%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Biomedical%20Engineer%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varshini%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=16"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 
-       Aspiring to work in a technology-driven organization where I can apply
+Aspiring to work in a technology-driven organization where I can apply
 my programming, data analysis, and problem-solving skills to develop
 innovative and efficient solutions. Passionate about continuous learning
 and eager to contribute to impactful projects in software development,
