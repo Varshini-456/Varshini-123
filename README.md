@@ -13,11 +13,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 
-Aspiring to work in a technology-driven organization where I can apply
-my programming, data analysis, and problem-solving skills to develop
-innovative and efficient solutions. Passionate about continuous learning
-and eager to contribute to impactful projects in software development,
-data analytics, and technology-enabled solutions
+I am a passionate Python Developer and Biomedical Engineering graduate with a strong interest in software development, web technologies, and machine learning. I enjoy building innovative solutions that solve real-world problems while continuously improving my technical and problem-solving skills. I have worked on projects such as Library Management System and EMG-Based Gait Analysis for Early Detection of Neurological Disorders using machine learning. I am currently expanding my expertise in Python Full Stack Development, backend development, and database management while seeking opportunities to contribute, learn, and grow as a software professional.
 
 ---
 
