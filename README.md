@@ -25,7 +25,7 @@ I am a passionate Python Developer and Biomedical Engineering graduate with a st
 
 ## 📂 Projects
 
-🌟 **Library Management System**
+🌟 **Library Management System**<br></br>
 🌟 **EMG-Based Gait Analysis for Early Detection of Neurological Disorders**|
 
 ---
