@@ -22,13 +22,11 @@ I am a passionate Python Developer and Biomedical Engineering graduate with a st
 ---
 
 
-# 🚀 Featured Projects
 
-| Project                                        | Stack                    | Highlights                                                                                                            |
-| ---------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| **Library Management System**                  | Python, MySQL            | CRUD operations, database design, validation, efficient record management                                             |
-| **EMG-Based Gait Analysis**                    | Python, Machine Learning | Feature extraction (RMS, Mean Frequency, Variance), Random Forest & Decision Tree for neurological disorder detection |
-| **Automatic IV Pole with Refill Notification** | Embedded Systems         | International conference paper presentation                                                                           |
+## 📂 Projects
+
+🌟 **Library Management System**
+🌟 **EMG-Based Gait Analysis for Early Detection of Neurological Disorders**|
 
 ---
 
